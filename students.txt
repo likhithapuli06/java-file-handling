@@ -1,0 +1,4 @@
+Student ID: 300
+Name: Likhitha
+Course: Computer Science
+Age: 20
